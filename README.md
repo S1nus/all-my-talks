@@ -1,6 +1,8 @@
 # All My Content
 Research Day 2023 - [Profitable Censorship MEV](https://www.youtube.com/watch?v=zEnySS0kh1s&t=424s)
 
+Validated Podcast - [The Long-Term Vision for the DA Layer](https://youtu.be/mM9dqiuk7TI?si=dh0xX7c0s0aSqBPd)
+
 Celestia in Marseille - ZK Explained for DAS Understanders (where is the link T_T)
 
 ZKSummit 11 - [Building a Re-Usable ZK-powered DA Integration for Rollups](https://www.youtube.com/watch?v=gsOvk7GSxLg)
