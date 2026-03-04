@@ -15,5 +15,7 @@ Modular Summit - [Light Nodes Everywhere: Why and How](https://www.youtube.com/w
 
 Deeply Intents - [Your Favorite KOL's Favorite KOL](https://x.com/apriori0x/status/1888089359846367450)
 
+Bips and Sips - [Scaling Privacy in Crypto](https://open.spotify.com/episode/5X8jMiKOOrR05dzDyflUV9?si=516bd4e051174d23)
+
 ## Other stuff
 there are various panels, and guest appearances on podcasts
